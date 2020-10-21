@@ -24,7 +24,7 @@ In this tutorial, we will be creating an AR effect that manipulates multiple obj
 # Getting started
 The first part of any project is coming up with an idea and visualizing it, which will help us understand how to approach the problem. We said we would be creating a trailing effect around the eye area; to help you visualize this, you can find how the result will look below.
 
-![Preview the result](https://github.com/tomaspietravallo/sparkar-fdccc2020/blob/gh-pages/tutorial-images/preview-result.gif)
+![Preview the result](tutorial-images/preview-result.gif)
 
 > You can also try out the final filter [here](https://www.instagram.com/ar/825126108015002/)
 
@@ -37,7 +37,7 @@ The project shown above uses 36 meshes; as you can imagine, connecting and tweak
 # Preparing our scene
 
 ## Scene hierarchy
-![Scene hierarchys screenshot](https://github.com/tomaspietravallo/sparkar-fdccc2020/blob/gh-pages/tutorial-images/scene-hierarchy-screenshot.jpg)
+![Scene hierarchys screenshot](tutorial-images/scene-hierarchy-screenshot.jpg)
 
 As you can see, the scene is pretty simple; it contains a faceTracker and 36 meshes - meshes 03 to 35 omitted in the screenshot. 
 
@@ -57,8 +57,8 @@ There will be nine materials, named faceMeshMat\[00-08\], so that every four mes
 ## Textures
 In the textures, we will only have the faceTracker Texture extraction, which by default is called "faceTracker0 Texture0". The eight textures used for the masks which are named \[00-08\]
 
-![A collage of nine pictures showing the different masks](https://github.com/tomaspietravallo/sparkar-fdccc2020/blob/gh-pages/tutorial-images/alpha-masks.jpg)
-![An overlay showing "mask 1" and the Spark AR reference image](https://github.com/tomaspietravallo/sparkar-fdccc2020/blob/gh-pages/tutorial-images/alpha-mask-1.jpg)
+![A collage of nine pictures showing the different masks](tutorial-images/alpha-masks.jpg)
+![An overlay showing "mask 1" and the Spark AR reference image](tutorial-images/alpha-mask-1.jpg)
 
 In the images above, you can see how the masks get progressively smaller, as well as an overlay of the reference that Spark AR provides used to create the textures.
 
