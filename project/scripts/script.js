@@ -13,8 +13,8 @@ async function animateMeshes(){
   for (let index = 0; index < meshes.length; index++) {
       let mesh = meshes[index];
 
-      let smoothBy = (maxSmooth / meshes.length) * index + 1;
-      let delayBy = (maxDelay / meshes.length) * index + 1;
+      let smoothBy = (maxSmooth / meshes.length) * (index + 1);
+      let delayBy = (maxDelay / meshes.length) * (index + 1);
 
       let xValue = Reactive.expSmooth( transform.x.delayBy({ milliseconds: delayBy }), smoothBy);
       let yValue = Reactive.expSmooth( transform.y.delayBy({ milliseconds: delayBy }), smoothBy);
