@@ -212,8 +212,8 @@ We can then multiply that value by our index to get which values corresponds to 
 We use 'index + 1' because the first mesh (multiplying by 0), would be placed on the exact face position, and the effect wouldn't be noticeable
 */
 
-let smoothBy = (maxSmooth / meshes.length) * index + 1;
-let delayBy = (maxDelay / meshes.length) * index + 1;
+let smoothBy = (maxSmooth / meshes.length) * (index + 1);
+let delayBy = (maxDelay / meshes.length) * (index + 1);
 ```
 
 Combining the loop with the code to make specific settings for each iteration, we get the following:
@@ -231,8 +231,8 @@ async function animateMeshes(){
   for (let index = 0; index < meshes.length; index++) {
       let mesh = meshes[index];
 
-      let smoothBy = (maxSmooth / meshes.length) * index + 1;
-      let delayBy = (maxDelay / meshes.length) * index + 1;
+      let smoothBy = (maxSmooth / meshes.length) * (index + 1);
+      let delayBy = (maxDelay / meshes.length) * (index + 1);
 
       // Calculate the delayed and smoothed x,y,z values
       let xValue = Reactive.expSmooth( transform.x.delayBy({ milliseconds: delayBy }), smoothBy);
@@ -304,8 +304,8 @@ async function animateMeshes(){
   for (let index = 0; index < meshes.length; index++) {
       let mesh = meshes[index];
 
-      let smoothBy = (maxSmooth / meshes.length) * index + 1;
-      let delayBy = (maxDelay / meshes.length) * index + 1;
+      let smoothBy = (maxSmooth / meshes.length) * (index + 1);
+      let delayBy = (maxDelay / meshes.length) * (index + 1);
 
       let xValue = Reactive.expSmooth( transform.x.delayBy({ milliseconds: delayBy }), smoothBy);
       let yValue = Reactive.expSmooth( transform.y.delayBy({ milliseconds: delayBy }), smoothBy);
