@@ -268,7 +268,7 @@ mesh.transform.rotationZ = transform.rotationZ;
 ```
 
 ## The result
-Here is the code as found in [the project](#project). Take some time to read it and see if you can understand it; if you don't, you can use this map to find the different sections you may want to revise:
+Here is the code as found in [the project](https://github.com/tomaspietravallo/sparkar-fdccc2020/tree/master/project). Take some time to read it and see if you can understand it; if you don't, you can use this map to find the different sections you may want to revise:
 
 - [Getting started](#getting-started)
 - [Preparing our scene](#preparing-our-scene)
