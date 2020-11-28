@@ -632,7 +632,8 @@ If you want to know more about contributing to open source projects, check this 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AQv9GR16xMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- \"[Dynamic instance/spawn in Spark AR v102+ With Full Explanation for the Code||Spawn objects](https://www.youtube.com/watch?v=xzWR1O2nmbk)\" by [Rbkavin](https://www.instagram.com/rbkavin/)
+
+- \"[Dynamic instance/spawn in Spark AR v102+ With Full Explanation for the Code \|\|Spawn objects](https://www.youtube.com/watch?v=xzWR1O2nmbk)\" by [Rbkavin](https://www.instagram.com/rbkavin/)
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xzWR1O2nmbk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
