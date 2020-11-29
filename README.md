@@ -604,16 +604,16 @@ async function createAndAnimateMeshes() {
 createAndAnimateMeshes();
 ```
 
-> You can use this link to see a packaged version of the project. Click "Download" to download it to your computer, and then open it in Spark AR Studio
+> You can use this [link](project/package.arprojpkg) to see a packaged version of the project. Click "Download" to download it to your computer, and then open it in Spark AR Studio
 
 # Next steps
-You saw how scripts can easily control multiple objects at once, and this makes the amount of parameters to tweak decrease dramatically, allowing you to explore more options and be more creative. I encourage you to come up with a project where things behave in a systematic manner, and then use what you learned here to make it.
+You saw how scripts can easily create and control multiple objects at once, and this makes the amount of parameters to tweak decrease dramatically, allowing you to explore more options and be more creative. I encourage you to come up with a project where you apply what you learned in this tutorial.
 
-> Tip: The [Materials](https://sparkar.facebook.com/ar-studio/learn/reference/classes/materialsmodule) and [Textures](https://sparkar.facebook.com/ar-studio/learn/reference/classes/texturesmodule) and [Scene](https://sparkar.facebook.com/ar-studio/learn/reference/classes/scenemodule) modules all contain `findByPath` or `findUsingPattern` methods. The [Materials](https://sparkar.facebook.com/ar-studio/learn/reference/classes/materialsmodule) and [Blocks](https://sparkar.facebook.com/ar-studio/learn/reference/classes/blocksmodule) modules also supports dynamic instances. Possibilities are endless.
+> Tip: The [Materials](https://sparkar.facebook.com/ar-studio/learn/reference/classes/materialsmodule), [Textures](https://sparkar.facebook.com/ar-studio/learn/reference/classes/texturesmodule) and [Scene](https://sparkar.facebook.com/ar-studio/learn/reference/classes/scenemodule) modules all contain `findByPath` or `findUsingPattern` methods. The [Materials](https://sparkar.facebook.com/ar-studio/learn/reference/classes/materialsmodule) and [Blocks](https://sparkar.facebook.com/ar-studio/learn/reference/classes/blocksmodule) modules also supports dynamic instances. Possibilities are endless.
 
 Don't ever hesitate to look at the [Spark AR Scripting Object Reference](https://sparkar.facebook.com/ar-studio/learn/reference/scripting/summary), as it contains descriptions and examples for all the modules available and their methods.
 
-This project is Open Source, and so can be yours! You can publish your projects for free on GitHub and help the Spark AR Community grow; make sure to include a [contributing.md](contributing.md) so people know how to contribute and a [code of conduct](code-of-conduct.md); this project has both, if you wish to contribute, please make sure to read them before contributing.
+This project is Open Source, and so can be yours! You can publish your projects for free on GitHub and help the Spark AR Community grow; make sure to include a [contributing.md](contributing.md) and a [code-of-conduct](code-of-conduct.md), so people know how to contribute; this project has both, if you wish to contribute, please make sure to read them before contributing (follow the respective links). You may also include a [License](LICENSE), so people seeing your project clearly know what they *can* and *can't* do with the project, if you don't know which license is right for your project, you can go to [choosealicense.com](https://choosealicense.com).
 
 If you want to know more about contributing to open source projects, check this free course: \"[How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)\" which covers all you need to know.
 
