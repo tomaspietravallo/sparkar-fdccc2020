@@ -208,7 +208,7 @@ And then to assign the mesh to the parent you must use the `addChild` function.
 await meshesParent.addChild(newMesh);
 ```
 
-All together, the code below will create and place a face mesh on your scene; as you will see later on, this will allow you to change the amount of meshes on the scene astonishingly easily.
+All together, the code below will create and place a face mesh on your scene; this will allow you to change the amount of meshes on the scene astonishingly easily.
 
 ```javascript
 // ... Modules truncated
@@ -267,7 +267,7 @@ createAMesh();
 ```
 
 ## Adding materials
-Now, you should get all of materials, so that you can assign them to the meshes. You could try to do something like this:
+Now, you should get all of the materials, so that you can assign them to the meshes. You could try to do something like this:
 
 ```javascript
 await Materials.findFirst('mask-material00');
