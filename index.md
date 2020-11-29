@@ -604,7 +604,7 @@ async function createAndAnimateMeshes() {
 createAndAnimateMeshes();
 ```
 
-> You can use this [link](project/package) to get a packaged version of the project. Click "Download" to download it to your computer, and then open it in Spark AR Studio
+> You can use this [link](project/package.arprojpkg) to get a packaged version of the project. Click "Download" to download it to your computer, and then open it in Spark AR Studio
 
 # Next steps
 You saw how scripts can easily create and control multiple objects at once, and this makes the amount of parameters to tweak decrease dramatically, allowing you to explore more options and be more creative. I encourage you to come up with a project where you apply what you learned in this tutorial.
