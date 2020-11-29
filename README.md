@@ -267,7 +267,7 @@ createAMesh();
 ```
 
 ## Adding materials
-Now, should get all of materials, so that you can assign them to the meshes. You could try to do something like this:
+Now, you should get all of materials, so that you can assign them to the meshes. You could try to do something like this:
 
 ```javascript
 await Materials.findFirst('mask-material00');
@@ -537,7 +537,7 @@ const Materials = require('Materials');
 // [1]
 async function createAndAnimateMeshes() {
 
-  // Settings you can quickly and easily modfify (download the project play around! 🙌✨)
+  // Settings you can quickly and easily modfify (download the project and play around! 🙌✨)
   let amountOfMeshes = 36;
   let maxSmooth = 350;
   let maxDelay = 0.5;
