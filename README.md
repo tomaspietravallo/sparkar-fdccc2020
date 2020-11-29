@@ -28,9 +28,9 @@ In this tutorial, you will create an AR effect that creates and manipulates mult
      - [Getting the face coordinates](#getting-the-face-coordinates)
      - [Animating multiple objects](#animating-multiple-objects)
 - [The result ✨](#the-result-)
-- [Next steps](#next-steps)
-- [Inspiration 💡](#-inspiration)
-- [Related content](#related-content)
+- [Next steps 🗺️](#next-steps-)
+- [Inspiration 💡](#inspiration-)
+- [Related content 🏘️](#related-content-)
 
 ---
 
@@ -606,7 +606,7 @@ createAndAnimateMeshes();
 
 > You can use this [link](project/package.arprojpkg) to see a packaged version of the project. Click "Download" to download it to your computer, and then open it in Spark AR Studio
 
-# Next steps
+# Next steps 🗺️
 You saw how scripts can easily create and control multiple objects at once, and this makes the amount of parameters to tweak decrease dramatically, allowing you to explore more options and be more creative. I encourage you to come up with a project where you apply what you learned in this tutorial.
 
 > Tip: The [Materials](https://sparkar.facebook.com/ar-studio/learn/reference/classes/materialsmodule), [Textures](https://sparkar.facebook.com/ar-studio/learn/reference/classes/texturesmodule) and [Scene](https://sparkar.facebook.com/ar-studio/learn/reference/classes/scenemodule) modules all contain `findByPath` or `findUsingPattern` methods. The [Materials](https://sparkar.facebook.com/ar-studio/learn/reference/classes/materialsmodule) and [Blocks](https://sparkar.facebook.com/ar-studio/learn/reference/classes/blocksmodule) modules also supports dynamic instances. Possibilities are endless.
@@ -617,7 +617,7 @@ This project is Open Source, and so can be yours! You can publish your projects 
 
 If you want to know more about contributing to open source projects, check this free course: \"[How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)\" which covers all you need to know.
 
-# Related content
+# Related content 🏘️
 ## Official Spark AR content
 - [Spark AR Community Facebook Group](https://www.facebook.com/groups/SparkARcommunity)
 - [Spark AR Scripting Object Reference](https://sparkar.facebook.com/ar-studio/learn/reference/scripting/summary)
