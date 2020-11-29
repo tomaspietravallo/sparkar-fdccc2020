@@ -632,7 +632,7 @@ If you want to know more about contributing to open source projects, check this 
 - \"[Dynamic instance/spawn in Spark AR v102+ With Full Explanation for the Code||Spawn objects](https://www.youtube.com/watch?v=xzWR1O2nmbk)\" by [Rbkavin](https://www.instagram.com/rbkavin/)
 
 
-> Dynamic instaces are a brand new feature, so there's not much content covering it, but the Spark AR community is full of open and talented creators, more tutorials will be made about this topic, and as they are published they will get added here. You can also read [the official documentation](https://sparkar.facebook.com/ar-studio/learn/scripting/dynamic-instantiation)
+> Dynamic instaces is a brand new feature, so there's not much content covering it, but the Spark AR community is full of open and talented creators, more tutorials will be made about this topic, and as they are published they will get added here. You can also read [the official documentation](https://sparkar.facebook.com/ar-studio/learn/scripting/dynamic-instantiation)
 
 ## Inspiration 💡
 
