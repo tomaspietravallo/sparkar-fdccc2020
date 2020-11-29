@@ -28,9 +28,9 @@ In this tutorial, you will create an AR effect that creates and manipulates mult
      - [Getting the face coordinates](#getting-the-face-coordinates)
      - [Animating multiple objects](#animating-multiple-objects)
 - [The result ✨](#the-result-)
-- [Next steps 🗺️](#next-steps-)
+- [Next steps 🗺️](#next-steps-%EF%B8%8F)
 - [Inspiration 💡](#inspiration-)
-- [Related content 🏘️](#related-content-)
+- [Related content 🏘️](#related-content-%EF%B8%8F)
 
 ---
 
