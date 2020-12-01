@@ -2,6 +2,8 @@
 
 This tutorial is part of the 2020 Facebook Developer Circles Community Challenge, if you wish to read the entry you may do so [here](https://devpost.com/software/manipulating-multiple-scene-objects-with-scripts-in-spark-ar).
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OEZxLtC7bXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Overview 🔭
 In this tutorial, you will create an AR effect that creates and manipulates multiple objects by taking advantage of the power of scripts in Spark AR Studio. The filter will produce a slinky-eye trail that is always catching up to the user's face. The key things you will explore are:
 - Creating objects with scripts
