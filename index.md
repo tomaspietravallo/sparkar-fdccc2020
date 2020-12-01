@@ -638,7 +638,7 @@ If you want to know more about contributing to open source projects, check this 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xzWR1O2nmbk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-> Dynamic instaces is a brand new feature, so there's not much content covering it, but the Spark AR community is full of open and talented creators, more tutorials will be made about this topic, and as they are published they will get added here. You can also read [the official documentation](https://sparkar.facebook.com/ar-studio/learn/scripting/dynamic-instantiation)
+> Dynamic Instaces is a brand new feature; the Spark AR community is full of open and talented creators, so more tutorials will be made about this topic, and as they are published they will get added here. You can also read [the official documentation for Dynamic Instances](https://sparkar.facebook.com/ar-studio/learn/scripting/dynamic-instantiation)
 
 ## Inspiration 💡
 
